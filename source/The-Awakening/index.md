@@ -2,12 +2,20 @@ title: The Awakening
 date: 2014-10-21 16:52:53
 tags:
 ---
-**Independence day, 2014**
+#####Independence day, 2014
 
-Facebook seems a part of my life now. I logged on and saw that a lot of friends had changed their profile pictures to something patriotic. Scrolled down to see friends traveling and posting pictures. And then i came across a post from a friend. And i got real emotional. And this is how i responded to the post.
+Facebook seems a part of my life now. I logged on and saw that a lot of friends had changed their profile pictures to something patriotic. Scrolled down to see friends traveling and posting pictures. And then i came across a video post from a friend. And i got real emotional. 
+{% img /images/MockeryOfIndians.GIF %}
 
-You can watch the video, that triggered my emotions [**here**](http://www.storypick.com/independence-day-questions/).
+And this is how i responded to the post.
+
+{% img /images/SameeriResponse.GIF %}
+
+You can watch the video the video, that triggered my emotions...over [here]((http://www.storypick.com/independence-day-questions/).
+
+
 For the next day or two, i couldn't get my thoughts off this post. And it kept rolling. I just decided to type out what i felt. And these were the words in my mind.
+
 
 "India is my home country! I was born here. I was raised up here. I had 25 amazing years spent here. 
 
@@ -137,7 +145,7 @@ If we speak, show, write good; then, they see good things about our country.
 
 So sometimes we see videos like this and it fills my heart with happiness.. where people are trying to communicate positive stuff..
 
-[http://www.storypick.com/can-india-change/](http://www.storypick.com/can-india-change/)
+[https://www.youtube.com/watch?v=ZkbQcayOsc0](https://www.youtube.com/watch?v=ZkbQcayOsc0)
 
 It's not a one man's country.. it never was, it never is.
 
@@ -171,10 +179,11 @@ India calls me to wake up.. India calls you to Wake up!
 
 Jai Hind!"
 
+
 So that's the beginning, the story of **IndiaAwake**.
 
-If you are reading up this page, that's because we have started. We have made one tiny step. It's a great challenge infront of us, you and me, as to explore how to use technology to share information,as to what we can do. And a bigger challenge is to create waves of postivity. 
+If you are reading up this page, that's because we have started. We have taken one tiny step. It's a great challenge infront of us, you and me, as to explore how to use technology to share information,as to what we can do. And a bigger challenge is to create waves of postivity. 
 
-I'm going to keep writing these thoughts as they come. Hopefully, we shall soon see the amazing energy that you have in you to help all of us out.
+I'm going to keep writing these thoughts as they come. Hopefully, we all shall soon see the amazing energy that you have in you to help all of us out.
 
 -Sameeri Marryboyina
