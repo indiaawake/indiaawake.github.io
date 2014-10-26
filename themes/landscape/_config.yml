@@ -1,12 +1,14 @@
 # Header
 menu:
   Home: /
+  The Awakening: /The-Awakening
+  Strategy: /Strategy
   AppVilla: /AppVilla
   TechnoSpace: /TechnoSpace
   Dear Diary: /Dear-Diary
   ScribblePad: /ScribblePad
-  The Awakening: /The-Awakening
   Whats in a name: /Whats-in-a-name
+  
   
 rss: /atom.xml
 

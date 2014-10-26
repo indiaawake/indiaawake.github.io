@@ -5,11 +5,11 @@ tags:
 #####Independence day, 2014
 
 Facebook seems a part of my life now. I logged on and saw that a lot of friends had changed their profile pictures to something patriotic. Scrolled down to see friends traveling and posting pictures. And then i came across a video post from a friend. And i got real emotional. 
-{% img /images/MockeryOfIndians.GIF %}
+{% img /images/MockeryOfIndians.PNG %}
 
 And this is how i responded to the post.
 
-{% img /images/SameeriResponse.GIF %}
+{% img /images/SameeriResponse.PNG %}
 
 You can watch the video the video, that triggered my emotions...over [here]((http://www.storypick.com/independence-day-questions/).
 
