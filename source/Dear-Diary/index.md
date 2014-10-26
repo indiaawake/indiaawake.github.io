@@ -7,4 +7,3 @@ date: 2014-10-25 10:55:54
    The first steps taken by their baby, thier expressions. They click away pictures of delightful moments. 
    Cute little things, they fall, they rise, they play, they are so fun to watch. We go back to the olden golden days, with a little diary of our love, to write down the
    thoughts."*
-   -- Sameeri Marryboyina  

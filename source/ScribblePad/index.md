@@ -8,4 +8,3 @@ date: 2014-10-25 10:59:21
    express something on a paper quick, to draw something on a white board. Ideas are communicated so. Everytime,
    someone tells us something, we would like to scribble it down, so we won't forget. For we love ideas and positive
    thoughts and we do not want to even lose one of them"*
-   -- Sameeri Marryboyina
