@@ -9,7 +9,6 @@ How have you been? We have had some more important setup stuff to do this week.
 
 - More brainstorming and discussions.
 - Found a great way to track our ideas, progress. Setup [Trello](https://trello.com/).
-- Our first apps would be based on Google Maps. A couple of us are researching the maps technology.
 - Created a google form to see how people think and if they want to contribute, where their interests lie.
 - Setup our YouTube channel. 
 - Setup and added Google Analytics to our blog.
