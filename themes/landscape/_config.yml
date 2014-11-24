@@ -2,11 +2,12 @@
 menu:
   Home: /
   The Awakening: /The-Awakening
-  Strategy: /Strategy
+  The Name: /The-Name
+  The Strategy: /Strategy
   AppVilla: /AppVilla
   TechnoSpace: /TechnoSpace
-  Dear Diary: /Dear-Diary
-  ScribblePad: /ScribblePad
+  Dear Diary: /tags/Dear-Diary
+  ScribblePad: https://trello.com/b/mixkzFP8/scribblepad
   Whats in a name: /Whats-in-a-name
   
   
@@ -28,7 +29,7 @@ widgets:
 
 # Miscellaneous
 google_analytics: UA-56262265-1
-favicon: /favicon.png
+favicon: /favicon.ico
 twitter:
 google_plus:
 fb_admins:
